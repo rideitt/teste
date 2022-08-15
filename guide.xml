@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Fox Premium 1 HD">
+    <display-name lang="pt">Fox Premium 1 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Premium 2 HD">
+    <display-name lang="pt">Fox Premium 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD ³">
+    <display-name lang="pt">Telecine Premium HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD ³">
+    <display-name lang="pt">Telecine Action HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Touch HD ³">
+    <display-name lang="pt">Telecine Touch HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD ³">
+    <display-name lang="pt">Telecine Fun HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD ³">
+    <display-name lang="pt">Telecine Pipoca HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Cult HD ³">
+    <display-name lang="pt">Telecine Cult HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
